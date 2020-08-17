@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b68c07f5-1afe-47f2-8b8a-567412d36fde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ftJVcB60FN7a8g7WjxhNjTVMHK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.TwoStringMasks">
+    <configuration name="DestoryBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DestoryBall" />
+      <module name="JavaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSegment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringSegment" />
+      <module name="JavaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoStringMasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoStringMasks" />
+      <module name="JavaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerticalFall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VerticalFall" />
+      <module name="JavaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordScramble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordScramble" />
+      <module name="JavaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwoStringMasks" />
+        <item itemvalue="Application.WordScramble" />
+        <item itemvalue="Application.VerticalFall" />
+        <item itemvalue="Application.DestoryBall" />
+        <item itemvalue="Application.StringSegment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b68c07f5-1afe-47f2-8b8a-567412d36fde" name="Default Changelist" comment="" />
+      <created>1597031479511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597031479511</updated>
+      <workItem from="1597031481856" duration="6996000" />
+      <workItem from="1597213079534" duration="9000" />
+      <workItem from="1597635036685" duration="3898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="761" y="413" key="#Project_Structure" timestamp="1597031505772">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="761" y="413" key="#Project_Structure/0.0.2560.1440@0.0.2560.1440" timestamp="1597031505772" />
+    <state width="1698" height="380" key="GridCell.Tab.0.bottom" timestamp="1597638985537">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1698" height="380" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1597638985537" />
+    <state width="1698" height="380" key="GridCell.Tab.0.center" timestamp="1597638985537">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1698" height="380" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1597638985537" />
+    <state width="1698" height="380" key="GridCell.Tab.0.left" timestamp="1597638985537">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1698" height="380" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1597638985537" />
+    <state width="1698" height="380" key="GridCell.Tab.0.right" timestamp="1597638985537">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1698" height="380" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1597638985537" />
+    <state x="896" y="494" key="com.intellij.ide.util.TipDialog" timestamp="1597213079407">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="896" y="494" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1597213079407" />
+    <state x="1617" y="586" key="extract.method.dialog" timestamp="1597638698825">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1617" y="586" key="extract.method.dialog/0.0.2560.1440@0.0.2560.1440" timestamp="1597638698825" />
+    <state x="1665" y="445" width="609" height="536" key="find.popup" timestamp="1597035518564">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1665" y="445" width="609" height="536" key="find.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1597035518564" />
+  </component>
+</project>
