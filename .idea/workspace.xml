@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b68c07f5-1afe-47f2-8b8a-567412d36fde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BEA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WaiterJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WaiterJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ftJVcB60FN7a8g7WjxhNjTVMHK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,9 +40,30 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.WaiterJob">
-    <configuration name="DestoryBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DestoryBall" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\LearnProgramming\JavaDemo\out\production" />
+      <recent name="D:\LearnProgramming\JavaDemo\out" />
+      <recent name="D:\LearnProgramming\JavaDemo\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MakingChange">
+    <configuration name="BEA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BEA" />
+      <module name="JavaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LOR" />
+      <module name="JavaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakingChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MakingChange" />
       <module name="JavaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,22 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerticalFall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VerticalFall" />
-      <module name="JavaDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaiterJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WaiterJob" />
-      <module name="JavaDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordScramble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WordScramble" />
+    <configuration name="UnwindData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnwindData" />
       <module name="JavaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WaiterJob" />
+        <item itemvalue="Application.MakingChange" />
+        <item itemvalue="Application.UnwindData" />
+        <item itemvalue="Application.LOR" />
+        <item itemvalue="Application.BEA" />
         <item itemvalue="Application.TwoStringMasks" />
-        <item itemvalue="Application.WordScramble" />
-        <item itemvalue="Application.VerticalFall" />
-        <item itemvalue="Application.DestoryBall" />
       </list>
     </recent_temporary>
   </component>
@@ -95,7 +105,11 @@
       <updated>1597031479511</updated>
       <workItem from="1597031481856" duration="6996000" />
       <workItem from="1597213079534" duration="9000" />
-      <workItem from="1597635036685" duration="4739000" />
+      <workItem from="1597635036685" duration="7289000" />
+      <workItem from="1598405487358" duration="22000" />
+      <workItem from="1598407049033" duration="524000" />
+      <workItem from="1598844523099" duration="5944000" />
+      <workItem from="1598851119978" duration="6034000" />
     </task>
     <servers />
   </component>
@@ -103,30 +117,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="761" y="413" key="#Project_Structure" timestamp="1597031505772">
+    <state x="761" y="413" key="#Project_Structure" timestamp="1598407085530">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="761" y="413" key="#Project_Structure/0.0.2560.1440@0.0.2560.1440" timestamp="1597031505772" />
-    <state width="1698" height="380" key="GridCell.Tab.0.bottom" timestamp="1597639957405">
+    <state x="761" y="413" key="#Project_Structure/0.0.2560.1440@0.0.2560.1440" timestamp="1598407085530" />
+    <state width="1698" height="380" key="GridCell.Tab.0.bottom" timestamp="1598858735679">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1698" height="380" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1597639957405" />
-    <state width="1698" height="380" key="GridCell.Tab.0.center" timestamp="1597639957405">
+    <state width="1698" height="380" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1598858735679" />
+    <state width="1698" height="380" key="GridCell.Tab.0.center" timestamp="1598858735679">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1698" height="380" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1597639957405" />
-    <state width="1698" height="380" key="GridCell.Tab.0.left" timestamp="1597639957405">
+    <state width="1698" height="380" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1598858735679" />
+    <state width="1698" height="380" key="GridCell.Tab.0.left" timestamp="1598858735679">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1698" height="380" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1597639957405" />
-    <state width="1698" height="380" key="GridCell.Tab.0.right" timestamp="1597639957405">
+    <state width="1698" height="380" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1598858735679" />
+    <state width="1698" height="380" key="GridCell.Tab.0.right" timestamp="1598858735679">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="1698" height="380" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1597639957405" />
-    <state x="896" y="494" key="com.intellij.ide.util.TipDialog" timestamp="1597213079407">
+    <state width="1698" height="380" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1598858735679" />
+    <state x="896" y="494" key="com.intellij.ide.util.TipDialog" timestamp="1598851125789">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="896" y="494" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1597213079407" />
+    <state x="896" y="494" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1598851125789" />
     <state x="1617" y="586" key="extract.method.dialog" timestamp="1597638698825">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -135,5 +149,9 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1665" y="445" width="609" height="536" key="find.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1597035518564" />
+    <state x="650" y="290" key="new project wizard" timestamp="1598405506799">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="650" y="290" key="new project wizard/0.0.2560.1440@0.0.2560.1440" timestamp="1598405506799" />
   </component>
 </project>
