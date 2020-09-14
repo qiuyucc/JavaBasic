@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b68c07f5-1afe-47f2-8b8a-567412d36fde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BEA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaDemo/MakingChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaDemo/MakingChange.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,16 +45,9 @@
       <recent name="D:\LearnProgramming\JavaDemo\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MakingChange">
-    <configuration name="BEA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BEA" />
-      <module name="JavaDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LOR" />
+  <component name="RunManager" selected="Application.ProgramSchedule">
+    <configuration name="DeleteDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteDuplicates" />
       <module name="JavaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,8 +60,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoStringMasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoStringMasks" />
+    <configuration name="PouringWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PouringWater" />
+      <module name="JavaDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramSchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramSchedule" />
       <module name="JavaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProgramSchedule" />
+        <item itemvalue="Application.DeleteDuplicates" />
+        <item itemvalue="Application.PouringWater" />
         <item itemvalue="Application.MakingChange" />
         <item itemvalue="Application.UnwindData" />
-        <item itemvalue="Application.LOR" />
-        <item itemvalue="Application.BEA" />
-        <item itemvalue="Application.TwoStringMasks" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +108,9 @@
       <workItem from="1598407049033" duration="524000" />
       <workItem from="1598844523099" duration="5944000" />
       <workItem from="1598851119978" duration="6034000" />
+      <workItem from="1599198763068" duration="113000" />
+      <workItem from="1599303350056" duration="16000" />
+      <workItem from="1600054909216" duration="4110000" />
     </task>
     <servers />
   </component>
@@ -121,25 +122,30 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="761" y="413" key="#Project_Structure/0.0.2560.1440@0.0.2560.1440" timestamp="1598407085530" />
-    <state width="1698" height="380" key="GridCell.Tab.0.bottom" timestamp="1598858735679">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1261" height="269" key="GridCell.Tab.0.bottom" timestamp="1600059485744">
+      <screen x="0" y="0" width="1500" height="1000" />
     </state>
+    <state width="1261" height="269" key="GridCell.Tab.0.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1600059485744" />
     <state width="1698" height="380" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1598858735679" />
-    <state width="1698" height="380" key="GridCell.Tab.0.center" timestamp="1598858735679">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1261" height="269" key="GridCell.Tab.0.center" timestamp="1600059485743">
+      <screen x="0" y="0" width="1500" height="1000" />
     </state>
+    <state width="1261" height="269" key="GridCell.Tab.0.center/0.0.1500.1000@0.0.1500.1000" timestamp="1600059485743" />
     <state width="1698" height="380" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1598858735679" />
-    <state width="1698" height="380" key="GridCell.Tab.0.left" timestamp="1598858735679">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1261" height="269" key="GridCell.Tab.0.left" timestamp="1600059485742">
+      <screen x="0" y="0" width="1500" height="1000" />
     </state>
+    <state width="1261" height="269" key="GridCell.Tab.0.left/0.0.1500.1000@0.0.1500.1000" timestamp="1600059485742" />
     <state width="1698" height="380" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1598858735679" />
-    <state width="1698" height="380" key="GridCell.Tab.0.right" timestamp="1598858735679">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1261" height="269" key="GridCell.Tab.0.right" timestamp="1600059485744">
+      <screen x="0" y="0" width="1500" height="1000" />
     </state>
+    <state width="1261" height="269" key="GridCell.Tab.0.right/0.0.1500.1000@0.0.1500.1000" timestamp="1600059485744" />
     <state width="1698" height="380" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1598858735679" />
-    <state x="896" y="494" key="com.intellij.ide.util.TipDialog" timestamp="1598851125789">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="525" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1599303353873">
+      <screen x="0" y="0" width="1500" height="1000" />
     </state>
+    <state x="525" y="343" key="com.intellij.ide.util.TipDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1599303353873" />
     <state x="896" y="494" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1598851125789" />
     <state x="1617" y="586" key="extract.method.dialog" timestamp="1597638698825">
       <screen x="0" y="0" width="2560" height="1440" />
